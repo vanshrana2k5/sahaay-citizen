@@ -25,7 +25,22 @@
 | 🏠 **Shelters** | Nearby emergency shelters via OpenStreetMap |
 
 ---
+## 📸 Screenshots
 
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### SOS Page
+![SOS](./screenshots/sos.png)
+![SOS Sent](./screenshots/sos_sent.png)
+
+### Alerts
+![Alerts](./screenshots/alerts.png)
+
+### Shelters
+![Shelters](./screenshots/shelters.png)
+
+---
 ## ✨ Features
 
 ### 🆘 Emergency SOS
